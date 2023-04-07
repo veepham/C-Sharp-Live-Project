@@ -7,6 +7,7 @@ For my contributions, I worked on creating and displaying the database of blog a
 
 During this two-week sprint, I was able to apply Agile/Scrum methodology and become more comfortable working in Azure DevOps. With my peers working on different parts of the website, I felt confident creating branches, merging updates from the master branch, resolving branch conflicts, and creating pull requests to maintain clean version control.
 
+## Code Snippets
 ### Creating Form using Bootstrap Grid System
 ![DonationForm](https://user-images.githubusercontent.com/111474183/230679483-41daa098-dddf-41ce-a403-fb6a7ab58bbf.gif)
 
@@ -25,3 +26,7 @@ In this story, I was able to create a partial view page that was modeled after t
 ![PartialView](https://user-images.githubusercontent.com/111474183/230680301-2cee149c-1162-4b48-a3e7-db1c920619f3.jpg)
 
 ![DisplayDatabase](https://user-images.githubusercontent.com/111474183/230680309-b79e393b-e843-4d3d-9845-57a722b9290f.gif)
+
+
+## Conclusion
+This project emcompassed everything I had learned throughout the C# and .NET course for the Tech Academy, but it was also a great practice for recalling my previous courses as well as pushing me to do additional research and learning. Every story has a basis in skills that we had covered but there was always an additional feature that required me to go the extra mile. This helped me solidify how to research things I do not know, apply examples I found to my specific project, and also reach out for help when I absolutely felt stuck. These challenges help me feel really confident and proud of the work I contributed to the project.
